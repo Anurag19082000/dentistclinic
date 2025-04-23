@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin :0px;
+    
+}
+
+.navbar{
+height: 160px;
+padding: 5px;
+display: flex;
+justify-content: space-between;
+background-color: #cbf3f0;
+text-decoration-color: black;
+}
+
+.font{
+    color:black;
+}
+
+
+
+img{
+    height: 80px;
+    margin-left: -80px;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    gap : 40px;
+    align-items: center; 
+    width : 80%;
+    font-size: larger;
+   
+    
+}
+
+.foot{
+    background-color: #2ec4b6;
+    height : 100%;
+}
